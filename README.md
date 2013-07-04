@@ -10,8 +10,8 @@ Check File: 'EightNumbersInA_CrossProblem.pdf'
 
 Two .cpp files:
 ===============
-Both .cpp files are independent
-1) Use Recursion
-2) No Recursion
+Both .cpp files are independent\n
+1) First file - Use Recursion
+2) Second file - Don't use Recursion
 
 
